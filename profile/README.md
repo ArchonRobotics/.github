@@ -1,9 +1,4 @@
-# Archon Robotics 源策未来
-[Website](https://www.archon.tech) · [Careers](https://careers.archonrobotics.tech) · [Contact](mailto:contact@archon.tech)
-
----
-
-## Building Whole-Body Intelligence (WBI)
+# Building Whole-Body Intelligence (WBI)
 
 At Archon Robotics, we're building a **Humanoid Foundation Model (HFM)** for whole-body intelligence - the foundational AI layer that lets humanoid robots **move, perceive, reason, and act in the real world**.
 
