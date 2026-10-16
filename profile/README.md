@@ -2,7 +2,7 @@
 
 At Archon Robotics, we're building a **Humanoid Foundation Model (HFM)** for whole-body intelligence - the foundational AI layer that lets humanoid robots **move, perceive, reason, and act in the real world**.
 
-[![Whole-Body Intelligence](https://assets.archonrobotics.tech/demo/20260930/landing.jpg)](https://youtu.be/b0h9oC8FhpU)
+[![Whole-Body Intelligence](./landing.jpg)](https://youtu.be/b0h9oC8FhpU)
 
 **Whole-Body Intelligence (WBI)** is our framework for building generalist humanoid foundation models.
 
